@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ed5af4c-95b9-47f7-af4d-6285e527538e": {
+      "ProjectGuid": "7ed5af4c-95b9-47f7-af4d-6285e527538e",
+      "DisplayName": "WebMVCComDDD.Application",
+      "ColorIndex": 0
+    },
+    "2b1cb430-4410-4b18-ace6-57c877dcdc3b": {
+      "ProjectGuid": "2b1cb430-4410-4b18-ace6-57c877dcdc3b",
+      "DisplayName": "WebMVCComDDD",
+      "ColorIndex": 1
+    },
+    "f4823a43-2400-4e2a-9fd2-8effde0485c5": {
+      "ProjectGuid": "f4823a43-2400-4e2a-9fd2-8effde0485c5",
+      "DisplayName": "WebMVCComDDD.Infra",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
